@@ -1,0 +1,10 @@
+.about {
+    max-width: 1320px ;
+    width: 100%;
+}
+
+.page-heading img {
+    width: 1320px;
+    height: 576px;
+    overflow: hidden;
+}
